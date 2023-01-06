@@ -1,4 +1,4 @@
-# Lane detection practice
+# Lane detection 
 This project is praticing how to use histogram equalizations and detect straight and curve lane lines.
 The prerequirement is to place adaptive_hist_data, whiteline.mp4, and challenge.mp4 under the file.
 The environment is based on python3, OpenCV, and numpy.
